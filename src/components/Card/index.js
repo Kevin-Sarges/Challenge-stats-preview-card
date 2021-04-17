@@ -1,12 +1,19 @@
 import React from 'react';
 
-import { Container } from './styles';
+import { Container, DivDescription, Image } from './styles';
+import ImageDesktop from '../../assets/image-header-desktop.jpg';
+import Description from '../Description';
 
 function Card() {
 	return (
 		<Container>
-			<p>descrição</p>
-			<p>Imagem</p>
+			<DivDescription>
+				<Description />
+			</DivDescription>
+
+			<Image>
+				<img src={ ImageDesktop } />
+			</Image>
 		</Container>
 	);
 }

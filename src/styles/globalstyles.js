@@ -32,8 +32,4 @@ export default createGlobalStyle`
 		color: var(--Slightly-transparent-white-start);
 		background: var(--Very-dark-blue);
 	}
-
-	footer {
-		font-family: 'Lexend Deca', sans-serif;
-	}
 `;
