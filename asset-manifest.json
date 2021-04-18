@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Challenge-stats-preview-card/static/js/main.afd63467.chunk.js",
+    "main.js.map": "/Challenge-stats-preview-card/static/js/main.afd63467.chunk.js.map",
+    "runtime-main.js": "/Challenge-stats-preview-card/static/js/runtime-main.dbf04ecd.js",
+    "runtime-main.js.map": "/Challenge-stats-preview-card/static/js/runtime-main.dbf04ecd.js.map",
+    "static/js/2.92a17d27.chunk.js": "/Challenge-stats-preview-card/static/js/2.92a17d27.chunk.js",
+    "static/js/2.92a17d27.chunk.js.map": "/Challenge-stats-preview-card/static/js/2.92a17d27.chunk.js.map",
+    "index.html": "/Challenge-stats-preview-card/index.html",
+    "static/js/2.92a17d27.chunk.js.LICENSE.txt": "/Challenge-stats-preview-card/static/js/2.92a17d27.chunk.js.LICENSE.txt",
+    "static/media/image-header-desktop.72d6e2a0.jpg": "/Challenge-stats-preview-card/static/media/image-header-desktop.72d6e2a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbf04ecd.js",
+    "static/js/2.92a17d27.chunk.js",
+    "static/js/main.afd63467.chunk.js"
+  ]
+}
