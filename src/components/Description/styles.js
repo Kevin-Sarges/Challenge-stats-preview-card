@@ -7,7 +7,7 @@ export const Container = styled.div`
   justify-content: space-between;
 
   @media(max-width: 375px) {
-    max-width: 55%;
+    max-width: 71%;
     align-items: center;
   }
 
@@ -36,9 +36,10 @@ export const Container = styled.div`
     font-size: 12px;
 
     @media(max-width: 375px) {
-      max-width: 100%;
+      max-width: 85%;
       font-size: 10px;
       margin-bottom: 20px;
+      margin-right: 0;
     }
   }
 
@@ -64,6 +65,7 @@ export const Container = styled.div`
 
     @media(max-width: 375px) {
       flex-direction: column;
+      margin-right: 0;
 
       > p {
         font-size: 15px;
