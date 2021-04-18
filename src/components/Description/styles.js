@@ -6,7 +6,7 @@ export const Container = styled.div`
   align-items: center;
   justify-content: space-between;
 
-  @media(max-width: 375px) {
+  @media(max-width: 550px) {
     max-width: 71%;
     align-items: center;
   }
@@ -22,7 +22,7 @@ export const Container = styled.div`
       color: var(--Soft-violet);
     }
 
-    @media(max-width: 375px) {
+    @media(max-width: 550px) {
       margin-top: 20px;
       margin-bottom: 10px;
       font-size: 18px;
@@ -35,7 +35,7 @@ export const Container = styled.div`
     margin-right: 32px;
     font-size: 12px;
 
-    @media(max-width: 375px) {
+    @media(max-width: 550px) {
       max-width: 85%;
       font-size: 10px;
       margin-bottom: 20px;
@@ -63,7 +63,7 @@ export const Container = styled.div`
       }
     }
 
-    @media(max-width: 375px) {
+    @media(max-width: 550px) {
       flex-direction: column;
       margin-right: 0;
 

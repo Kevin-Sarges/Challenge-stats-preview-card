@@ -7,7 +7,7 @@ export const Container = styled.div`
   background: var(--Dark-desaturated-blue);
   border-radius: 8px;
 
-  @media(max-width: 375px) {
+  @media(max-width: 550px) {
     width: 59%;
     flex-direction: column-reverse;
     align-items: center;
@@ -23,7 +23,7 @@ export const DivDescription = styled.div`
   align-items: center;
   justify-content: center;
 
-  @media(max-width: 375px) {
+  @media(max-width: 550px) {
     width: 140%;
     margin: 0;
     display: flex;
@@ -41,7 +41,7 @@ export const Image = styled.div`
     filter: invert(35%) sepia(100%) saturate(120%) hue-rotate(234deg) brightness(57%) contrast(148%);
   }
 
-  @media(max-width: 375px) {
+  @media(max-width: 550px) {
     width: 100%;
 
     img {
